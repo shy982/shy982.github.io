@@ -1,30 +1,32 @@
 {
   "files": {
     "main.css": "/static/css/main.3cf13eba.css",
-    "main.js": "/static/js/main.2a159fad.js",
+    "main.js": "/static/js/main.967a138e.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.f6e69b3b.chunk.js": "/static/js/64.f6e69b3b.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.1ef060c5.chunk.js": "/static/js/769.1ef060c5.chunk.js",
+    "static/media/safe-drive-logo.jpeg": "/static/media/safe-drive-logo.507344a81de3bb0baee4.jpeg",
     "static/media/UCSD_Seal.png": "/static/media/UCSD_Seal.fc05de4bf393c3a6a143.png",
+    "static/media/gods-eye-logo.jpeg": "/static/media/gods-eye-logo.45a9151b1add90eb451a.jpeg",
+    "static/media/gold-medals.jpeg": "/static/media/gold-medals.d467242b52bb5a6d178e.jpeg",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/nie_logo.png": "/static/media/nie_logo.3ea402a06eeac9eb8b46.png",
     "static/media/PS_logo.png": "/static/media/PS_logo.01cc50a5c1e1ac2cbcf2.png",
     "static/media/nie.png": "/static/media/nie.2c3a3e2d469fbe066823.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/Hpe-logo.jpeg": "/static/media/Hpe-logo.3037d6c3e53bae8d2ca0.jpeg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/mhrd-logo.webp": "/static/media/mhrd-logo.25058795e5a5e1d47a0a.webp",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.f720c71652579588524a.webp",
-    "static/media/codeInLogo.webp": "/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/driven-data-logo.jpeg": "/static/media/driven-data-logo.105f72305a05a72057d7.jpeg",
+    "static/media/knss-logo.png": "/static/media/knss-logo.6722e64bcbe09f4fbff8.png",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/pwaLogo.webp": "/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
-    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
-    "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3cf13eba.css.map": "/static/css/main.3cf13eba.css.map",
-    "main.2a159fad.js.map": "/static/js/main.2a159fad.js.map",
+    "main.967a138e.js.map": "/static/js/main.967a138e.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.f6e69b3b.chunk.js.map": "/static/js/64.f6e69b3b.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -32,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.3cf13eba.css",
-    "static/js/main.2a159fad.js"
+    "static/js/main.967a138e.js"
   ]
 }
