@@ -127,6 +127,18 @@ export default function socialMedia() {
           <span></span>
         </a>
       ) : null}
+
+      {socialMediaLinks.wordpress ? (
+        <a
+          href={socialMediaLinks.wordpress}
+          className="icon-button wordpress"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fa fa-wordpress"></i>
+          <span></span>
+        </a>
+      ) : null}
     </div>
   );
 }

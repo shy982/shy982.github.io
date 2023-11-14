@@ -20,10 +20,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Shyam",
+  username: "Shyam Renjith",
   title: "Hey, I'm Shyam!",
   subTitle: emoji(
-    "Passionate Software Developer 🚀 with a versatile skill set. Proficient in crafting dynamic Web and Mobile applications using JavaScript, Reactjs, Nodejs, and React Native. Equipped with strong research, AI, ML pipeline, and deployment skills, honed through experiences at PlayStation, HPE, and IBM Research."
+    "Passionate Software Developer 🚀 with a versatile skill set. Proficient in crafting dynamic Web and Mobile applications and Backend orchestration. Equipped with strong research, AI, ML pipeline, and deployment skills, honed through experiences at PlayStation, HPE, IBM Research and more."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1Z_RINajyfJLdhcobtXyqbr0CrKaUQ-MF/view?usp=sharing",
@@ -39,7 +39,8 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/shyam-r-9201/",
   gmail: "srenjith@ucsd.edu",
   gitlab: "https://gitlab.com/shy982",
-  // facebook: "https://www.facebook.com/saad.pasta7",
+  kaggle: "https://www.kaggle.com/darkknight98",
+  // wordpress: "https://www.shyai.wordpress.com",
   // medium: "https://medium.com/@saadpasta",
   // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -341,7 +342,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Hackathon Winning Project",
-          url: "https://link-to-your-winning-project.com"
+          url: "https://github.com/shy982/Smart-Traffic-Violation-Recognition-Automation"
         },
         {
           name: "Award Certificate",
@@ -358,20 +359,20 @@ const achievementSection = {
       footerLink: [
         {
           name: "Scholarship Certificate",
-          url: "https://drive.google.com/file/d/your-certificate-id/view?usp=sharing"
+          url: "https://docs.google.com/document/d/1dvBKtBjVAXFu9t7BsywidNQyHUY6UmYc/edit?usp=sharing&ouid=118069104346827803577&rtpof=true&sd=true"
         }
       ]
     },
     {
       title: "Gold Medalist - Best Outgoing Student",
       subtitle:
-        "Awarded the Gold Medal for being the Best Outgoing Student, demonstrating leadership and exceptional achievements.",
+        "Awarded the Gold Medal for being the First Rank Holder, Best Outgoing Student, demonstrating exceptional academic achievements.",
       image: require("./assets/images/gold-medals.jpeg"), // Replace with the actual path to gold medal image
       imageAlt: "Gold Medal Image",
       footerLink: [
         {
-          name: "Award Ceremony Photos",
-          url: "https://link-to-photos.com"
+          name: "Receiving First Rank Award",
+          url: "https://youtu.be/OHLfGgC_lks?t=4469"
         }
       ]
     },
@@ -384,20 +385,20 @@ const achievementSection = {
       footerLink: [
         {
           name: "Contest Results",
-          url: "https://link-to-results.com"
+          url: "https://www.drivendata.org/competitions/"
         }
       ]
     },
     {
       title: "MHRD India Govt. Appreciation",
       subtitle:
-        "Received appreciation from the Ministry of Human Resource Development, Government of India, for outstanding contributions to education.",
+        "Received appreciation from the Ministry of Human Resource Development, Government of India, for outstanding academic performance.",
       image: require("./assets/images/mhrd-logo.webp"), // Replace with the actual path to MHRD logo
       imageAlt: "MHRD Logo",
       footerLink: [
         {
           name: "Appreciation Letter",
-          url: "https://drive.google.com/file/d/your-appreciation-letter-id/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1fCVmBQmSzMu2wwGb1Q9WWu9cvOIKlVYW/view?usp=sharing"
         }
       ]
     },
