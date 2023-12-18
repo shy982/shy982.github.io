@@ -26,7 +26,7 @@ const greeting = {
     "Passionate Software Developer 🚀 with a versatile skill set. Proficient in crafting dynamic Web and Mobile applications and Backend orchestration. Equipped with strong research, AI, ML pipeline, and deployment skills, honed through experiences at PlayStation, HPE, IBM Research and more."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1Z_RINajyfJLdhcobtXyqbr0CrKaUQ-MF/view?usp=sharing",
+    "https://drive.google.com/file/d/16L1gg2rmG-rIeJiyyobYMhFcYJHSrVw5/view?usp=sharing",
   displayGreeting: true
 };
 
@@ -354,7 +354,7 @@ const achievementSection = {
       title: "NIE Alumni Endowment Scholarship",
       subtitle:
         "Recipient of the NIE Alumni Endowment Scholarship, recognizing academic excellence and contribution to the institute.",
-      image: require("./assets/images/nie_logo.png"), // Replace with the actual path to NIE logo
+      image: require("./assets/images/nie.png"),
       imageAlt: "NIE Logo",
       footerLink: [
         {
